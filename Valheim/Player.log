@@ -1,0 +1,332 @@
+Mono path[0] = 'C:/Program Files/WindowsApps/CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w/Valheim_Data/Managed'
+Mono config path = 'C:/Program Files/WindowsApps/CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w/MonoBleedingEdge/etc'
+Fallback handler could not load library C:/Program Files/WindowsApps/CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w/Valheim_Data/Mono/lib/usr/lib/libSystem.dylib
+Fallback handler could not load library C:/Program Files/WindowsApps/CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w/Valheim_Data/Mono/lib/usr/lib/libSystem.dylib.dll
+Fallback handler could not load library C:/Program Files/WindowsApps/CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w/Valheim_Data/Mono/lib/usr/lib/libSystem.dylib
+Fallback handler could not load library C:/Program Files/WindowsApps/CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w/Valheim_Data/Mono/libc.so.6
+Fallback handler could not load library C:/Program Files/WindowsApps/CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w/Valheim_Data/Mono/libc.so.6.dll
+Fallback handler could not load library C:/Program Files/WindowsApps/CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w/Valheim_Data/Mono/libc.so.6
+Fallback handler could not load library C:/Program Files/WindowsApps/CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w/Valheim_Data/Mono/data-00000231F04DC0E0.dll
+Fallback handler could not load library C:/Program Files/WindowsApps/CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w/Valheim_Data/Mono/data-00000231F4F3B040.dll
+Loading player data from C:/Program Files/WindowsApps/CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w/Valheim_Data/data.unity3d
+Initialize engine version: 2020.3.45f1 (660cd1701bd5)
+[Subsystems] Discovering subsystems at path C:/Program Files/WindowsApps/CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w/Valheim_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2080 Ti (ID=0x1e04)
+    Vendor:   
+    VRAM:     11041 MB
+    Driver:   31.0.15.3623
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.245 seconds
+<RI> Initializing input.
+New input system (experimental) initialized
+Using XInput
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.038600 ms
+[Message:   BepInEx] BepInEx 5.4.21.0 - Valheim (25-09-2023 00:05:37)
+[Message:   BepInEx] User is running BepInExPack Valheim version 5.4.2105 from Thunderstore
+[Info   :   BepInEx] Running under Unity v2020.3.45.6687953
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.21.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 2 plugins to load
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.1]
+[Info   :   BepInEx] Loading [Server Devcommands 1.61]
+Fallback handler could not load library C:/Program Files/WindowsApps/CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w/Valheim_Data/Mono/data-000002325BE7ECA0.dll
+[Message:   BepInEx] Chainloader startup complete
+10/02/2023 14:07:41: Fetching PlatformPrefs 'GuiScale' before loading defaults
+10/02/2023 14:07:41: Fetching PlatformPrefs 'GuiScale' before loading defaults
+Xbox UserID 2535460509739266, gamer tag 'MasTerMinD INK'
+10/02/2023 14:07:43: Starting to load scene:start
+Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+"serverlist/recent" (416 bytes)
+	.0 (208 bytes)
+	old.0 (208 bytes)
+"serverlist/favorite" (102 bytes)
+	.0 (51 bytes)
+	old.0 (51 bytes)
+"characters/mastermind.fch" (29195 bytes)
+	old.0 (29195 bytes)
+"characters/mastermind" (29195 bytes)
+	fch.0 (29195 bytes)
+"characters/mastermind__backup__auto-20231001234930" (decodes to "characters/mastermind_backup_auto-20231001234930", 27620 bytes)
+	fch.0 (27620 bytes)
+"characters/mastermind__backup__auto-20231001204814" (decodes to "characters/mastermind_backup_auto-20231001204814", 27964 bytes)
+	fch.0 (27964 bytes)
+"characters/mastermind__backup__auto-20230929022908" (decodes to "characters/mastermind_backup_auto-20230929022908", 26422 bytes)
+	fch.0 (26422 bytes)
+"characters/mastermind__backup__auto-20230929002502" (decodes to "characters/mastermind_backup_auto-20230929002502", 26019 bytes)
+	fch.0 (26019 bytes)
+"characters/mastermind__backup__auto-20230926235736" (decodes to "characters/mastermind_backup_auto-20230926235736", 23039 bytes)
+	fch.0 (23039 bytes)
+"worlds/INDIANKNIGHTS" (3942052 bytes)
+	db.0 (3941998 bytes)
+	fwl.0 (54 bytes)
+"worlds/INDIANKNIGHTS.fwl" (54 bytes)
+	old.0 (54 bytes)
+"worlds/INDIANKNIGHTS.db" (3941998 bytes)
+	old.0 (3941998 bytes)
+"worlds/INDIANKNIGHTS__backup__auto-20230925022309" (decodes to "worlds/INDIANKNIGHTS_backup_auto-20230925022309", 3839439 bytes)
+	db.0 (3839385 bytes)
+	fwl.0 (54 bytes)
+"worlds/INDIANKNIGHTS__backup__auto-20230925001853" (decodes to "worlds/INDIANKNIGHTS_backup_auto-20230925001853", 54 bytes)
+	fwl.0 (54 bytes)
+"characters/mastermind__backup__auto-20230925001407" (decodes to "characters/mastermind_backup_auto-20230925001407", 792 bytes)
+	fch.0 (792 bytes)
+4294967296
+11914361
+4283052935
+Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Cache friend Xbox ID 2535407763021588
+Cache friend Xbox ID 2535452646429696
+Cache friend Xbox ID 2535461395219845
+Cache friend Xbox ID 2535421524292162
+Cache friend Xbox ID 2535417316633147
+Cache friend Xbox ID 2535425896262393
+Cache friend Xbox ID 2535469322124258
+Cache friend Xbox ID 2535423415451419
+Cache friend Xbox ID 2535469300577286
+Cache friend Xbox ID 2535457914083497
+Cache friend Xbox ID 2535449274842556
+Cache friend Xbox ID 2535470506925875
+Cache friend Xbox ID 2535439846323938
+Cache friend Xbox ID 2535409215340646
+Cache friend Xbox ID 2535435885041252
+Cache friend Xbox ID 2535432541504151
+Cache friend Xbox ID 2535417603992438
+Cache friend Xbox ID 2535433610267643
+Cache friend Xbox ID 2535447338806891
+Cache friend Xbox ID 2535465410143954
+Cache friend Xbox ID 2535418160583133
+Cache friend Xbox ID 2535460103308622
+Cache friend Xbox ID 2535406047175340
+Cache friend Xbox ID 2535414340314604
+Cache friend Xbox ID 2535463198396623
+Cache friend Xbox ID 2535467249262762
+Cache friend Xbox ID 2535472908806866
+Cache friend Xbox ID 2535439808722227
+Cache friend Xbox ID 2535410434726967
+Cache friend Xbox ID 2535437255885333
+Cache friend Xbox ID 2535466103375690
+Cache friend Xbox ID 2535436804259671
+Cache friend Xbox ID 2535428117013548
+Cache friend Xbox ID 2535419203531910
+Cache friend Xbox ID 2535456500023238
+Cache friend Xbox ID 2535423573727269
+Cache friend Xbox ID 2535412828993526
+Cache friend Xbox ID 2535463935208200
+Cache friend Xbox ID 2535420787889985
+Cache friend Xbox ID 2535421159600279
+Cache friend Xbox ID 2535455187339080
+Cache friend Xbox ID 2535473599261434
+Cache friend Xbox ID 2535405216245282
+Cache friend Xbox ID 2535470081613656
+Cache friend Xbox ID 2533274836753072
+Cache friend Xbox ID 2533274943932944
+Cache friend Xbox ID 2535453049545479
+Shader 'Lux Lit Particles/ Tess Bumped': fallback shader 'Lux Lit Particles/ Bumped Smoke' not found
+Unloading 6 Unused Serialized files (Serialized files now loaded: 1)
+10/02/2023 14:07:50: Loaded localization file #0 - 'localization' language: 'English'
+10/02/2023 14:07:50: Loaded localization file #1 - 'localization_extra' language: 'English'
+10/02/2023 14:07:50: Loaded localization file #2 - 'heightmap_message' language: 'English'
+10/02/2023 14:07:50: Loaded localization file #3 - 'localization_hildir' language: 'English'
+10/02/2023 14:07:50: Loaded localization file #4 - 'localization_emotes' language: 'English'
+10/02/2023 14:07:50: Loaded localization file #0 - 'localization' language: 'English'
+10/02/2023 14:07:50: Loaded localization file #1 - 'localization_extra' language: 'English'
+10/02/2023 14:07:50: Loaded localization file #2 - 'heightmap_message' language: 'English'
+10/02/2023 14:07:50: Loaded localization file #3 - 'localization_hildir' language: 'English'
+10/02/2023 14:07:50: Loaded localization file #4 - 'localization_emotes' language: 'English'
+UnloadTime: 10.833300 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+10/02/2023 14:08:02: Using default prefs
+10/02/2023 14:08:02: Valheim version: ms-0.217.14 (network version 12)
+10/02/2023 14:08:02: Worldgenerator version setup:2
+10/02/2023 14:08:02: Render threading mode:MultiThreaded
+10/02/2023 14:08:02: Missing audio clip in music respawn
+10/02/2023 14:08:02: Builder started
+10/02/2023 14:08:03: Sending PlayFab login request (attempt 1)
+PlayFabAuthWithGdk::Login - get user token
+PlayFabAuthWithGdk::GetTokenAndSignatureCompletionRoutine - LoginWithXbox
+10/02/2023 14:08:03: Starting music menu
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 156678.
+Total: 274.714800 ms (FindLiveObjects: 18.929800 ms CreateObjectMapping: 31.046000 ms MarkObjects: 223.396300 ms  DeleteObjects: 1.341500 ms)
+
+PlayFabAuthWithGdk::OnLoginWithXboxSuccess - PlayFab.ClientModels.LoginResult
+10/02/2023 14:08:04: PlayFab logged via Xbox
+10/02/2023 14:08:04: PlayFab local entity ID is 35FAD28AF2B970B2
+10/02/2023 14:08:13: show character selection
+10/02/2023 14:08:13: OnCharacterStart
+10/02/2023 14:08:16: Added server with name INK-Server to server list
+10/02/2023 14:08:17: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 14:08:18: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 14:08:18: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 14:08:18: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 14:08:18: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 14:08:19: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 14:08:19: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 14:08:19: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 14:08:19: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 14:08:20: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 14:08:20: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 14:08:20: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 14:08:20: Get Lobby
+Server Name : INK-Server
+Server IP : 106.213.0.235:2456
+Game Version : 0.217.14
+Network Version : 12
+Player ID : 11C6689F303F7F56
+Players : 2
+Lobby ID : d1848234-375a-4daa-884c-6afd2c15f747.r-20230509
+Network ID : 0cebb711-6917-4578-a24a-864a951c6a45|AwA+6LPbr1vyMfoC00KNzY8nHcOymVNvdXRoZWFzdEFzaWEAAAAAAAAAiHaiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbk1kbnM4MWU1LWQ0MjFkMDA5LTJkZDAtNDU2OS05NjlmLTEzNmUyOTc1ZmZiYS5zb3V0aGVhc3Rhc2lhLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+Join Code : 965291
+Platform Restriction : None
+Dedicated : True
+Community : True
+TickCreated : 638318326845584631
+Modifiers : System.Collections.Generic.List`1[System.String]
+
+10/02/2023 14:08:20: Determined backend of dedicated server to be PlayFab
+10/02/2023 14:08:20: Loading main scene
+Unloading 6 Unused Serialized files (Serialized files now loaded: 1)
+10/02/2023 14:08:21: Cloud Save: 51 bytes. /serverlist/favorite.new
+10/02/2023 14:08:21: Cloud Save: 208 bytes. /serverlist/recent.new
+UnloadTime: 377.638300 ms
+10/02/2023 14:08:21: Using default prefs
+10/02/2023 14:08:21: Loading player profile mastermind
+10/02/2023 14:08:21: isModded: True
+10/02/2023 14:08:21: Zonesystem Awake 3351
+10/02/2023 14:08:21: DungeonDB Awake 3351
+10/02/2023 14:08:21: Audioman already exist, destroying self
+
+Unloading 96 unused Assets to reduce memory usage. Loaded Objects now: 160957.
+Total: 308.306300 ms (FindLiveObjects: 25.514400 ms CreateObjectMapping: 26.786300 ms MarkObjects: 253.728600 ms  DeleteObjects: 2.275600 ms)
+
+10/02/2023 14:08:34: Zonesystem Start 3351
+10/02/2023 14:08:36: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+10/02/2023 14:08:36: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+10/02/2023 14:08:36: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+10/02/2023 14:08:36: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
+10/02/2023 14:08:36: DungeonDB Start 3351
+10/02/2023 14:08:37: ZRpc timeout set to 30s 
+10/02/2023 14:08:37: Connecting to server with PlayFab-backend 11C6689F303F7F56
+10/02/2023 14:08:37: PlayFab socket with remote ID 11C6689F303F7F56 sent local Platform ID Xbox_2535460509739266
+[Info   :Server Devcommands] Reloading 1 bind data.
+10/02/2023 14:08:41: Get Lobby
+Server Name : INK-Server
+Server IP : 106.213.0.235:2456
+Game Version : 0.217.14
+Network Version : 12
+Player ID : 11C6689F303F7F56
+Players : 2
+Lobby ID : d1848234-375a-4daa-884c-6afd2c15f747.r-20230509
+Network ID : 0cebb711-6917-4578-a24a-864a951c6a45|AwA+6LPbr1vyMfoC00KNzY8nHcOymVNvdXRoZWFzdEFzaWEAAAAAAAAAiHaiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbk1kbnM4MWU1LWQ0MjFkMDA5LTJkZDAtNDU2OS05NjlmLTEzNmUyOTc1ZmZiYS5zb3V0aGVhc3Rhc2lhLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+Join Code : 965291
+Platform Restriction : None
+Dedicated : True
+Community : True
+TickCreated : 638318326845584631
+Modifiers : System.Collections.Generic.List`1[System.String]
+
+10/02/2023 14:08:41: Joining server 'INK-Server' at PlayFab network 0cebb711-6917-4578-a24a-864a951c6a45|AwA+6LPbr1vyMfoC00KNzY8nHcOymVNvdXRoZWFzdEFzaWEAAAAAAAAAiHaiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbk1kbnM4MWU1LWQ0MjFkMDA5LTJkZDAtNDU2OS05NjlmLTEzNmUyOTc1ZmZiYS5zb3V0aGVhc3Rhc2lhLmNsb3VkYXBwLmF6dXJlLmNvbQ== from lobby d1848234-375a-4daa-884c-6afd2c15f747.r-20230509
+10/02/2023 14:08:47: PlayFab client socket to remote player 11C6689F303F7F56 joined network 0cebb711-6917-4578-a24a-864a951c6a45|AwA+6LPbr1vyMfoC00KNzY8nHcOymVNvdXRoZWFzdEFzaWEAAAAAAAAAiHaiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbk1kbnM4MWU1LWQ0MjFkMDA5LTJkZDAtNDU2OS05NjlmLTEzNmUyOTc1ZmZiYS5zb3V0aGVhc3Rhc2lhLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+10/02/2023 14:08:47: ZRpc timeout set to 90s 
+10/02/2023 14:08:47: PlayFab socket connected to remote player 11C6689F303F7F56
+10/02/2023 14:08:47: Muted PlayFab remote player 11C6689F303F7F56
+10/02/2023 14:09:00: Muted PlayFab remote player 8EF0E74B18DF5025
+10/02/2023 14:09:02: Network version check, their:12, mine:12
+10/02/2023 14:09:02: Worldgenerator version setup:2
+10/02/2023 14:09:13: Unpacking compressed mapdata 10745
+10/02/2023 14:09:14: Starting respawn
+10/02/2023 14:09:14: client got keys 4
+10/02/2023 14:09:14: client got location icons
+10/02/2023 14:09:14: Icons:1
+10/02/2023 14:09:14: tip:$loadscreen_tip04
+10/02/2023 14:09:19: Done fading color
+10/02/2023 14:09:19: Done fading color
+10/02/2023 14:09:21: Spawned after 8.019994
+10/02/2023 14:09:22: Skipping unloading unused assets
+10/02/2023 14:09:22: Minimap: Adding unique location (-70.5, 34.4, 4.2)
+10/02/2023 14:09:23: Starting music meadows
+10/02/2023 14:09:23: Resumed music meadows at 0
+10/02/2023 14:10:18: Stopped music meadows at 2391513
+10/02/2023 14:10:18: Starting music meadows
+10/02/2023 14:10:18: Resumed music meadows at 2391513
+10/02/2023 14:11:06: Spawn time :3.0027 ms
+10/02/2023 14:11:10: Setting selected recipe 0
+10/02/2023 14:11:26: Stopped music meadows at 5415244
+10/02/2023 14:11:26: Starting music meadows
+10/02/2023 14:11:26: Resumed music meadows at 5415244
+10/02/2023 14:11:29: Stopped music meadows at 5527199
+10/02/2023 14:11:29: Starting music home
+10/02/2023 14:11:29: Resumed music home at 0
+10/02/2023 14:11:33: Stopped music home at 184396
+10/02/2023 14:11:33: Starting music meadows
+10/02/2023 14:11:33: Resumed music meadows at 5527199
+10/02/2023 14:11:58: Stopped music meadows at 6621349
+10/02/2023 14:11:58: Starting music meadows
+10/02/2023 14:11:58: Resumed music meadows at 6621349
+10/02/2023 14:13:14: Stopped music meadows at 279485
+10/02/2023 14:13:14: Starting music meadows
+10/02/2023 14:13:14: Resumed music meadows at 279485
+10/02/2023 14:13:36: Setting selected recipe 0
+10/02/2023 14:13:38: Setting selected recipe 0
+10/02/2023 14:13:59: Stopped music meadows at 2236348
+10/02/2023 14:13:59: Starting music meadows
+10/02/2023 14:13:59: Resumed music meadows at 2236348
+10/02/2023 14:14:01: Stopped music meadows at 2336072
+10/02/2023 14:14:01: Starting music home
+10/02/2023 14:14:01: Resumed music home at 184396
+10/02/2023 14:14:12: Stopped music home at 658559
+10/02/2023 14:14:12: Starting music home
+10/02/2023 14:14:12: Resumed music home at 658559
+10/02/2023 14:15:04: Update PlayFab entity token
+10/02/2023 14:18:00: Stopped music home at 2585473
+10/02/2023 14:18:00: Starting music meadows
+10/02/2023 14:18:00: Resumed music meadows at 2336072
+10/02/2023 14:18:18: Current res 1920x1080     1920x1080
+10/02/2023 14:18:25: Current res 1920x1080     1920x1080
+10/02/2023 14:19:08: Game - OnApplicationQuit
+10/02/2023 14:19:08: Shuting down
+10/02/2023 14:19:09: Uncompressed size 8390423
+10/02/2023 14:19:09: Compressed size 10745
+10/02/2023 14:19:09: Cloud Save: 29236 bytes. /characters/mastermind.fch.new
+10/02/2023 14:19:09: Considering autobackup. World time: 617.24, short time: 7200, long time: 43200, backup count: 4
+10/02/2023 14:19:09: Skipping backup. World session not long enough.
+10/02/2023 14:19:09: ZNet Shutdown
+10/02/2023 14:19:09: Failed to send, suspend TX on playfab/11C6689F303F7F56 while trying to reconnect
+10/02/2023 14:19:09: Unloading unused assets
+Unloading 11 Unused Serialized files (Serialized files now loaded: 1)
+10/02/2023 14:19:09: Sending disconnect msg
+10/02/2023 14:19:09: Sent to playfab/11C6689F303F7F56
+ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
+ZPlayFabSocket::Dispose. State: CONNECTED
+ZPlayFabSocket::Dispose. leave lobby. LobbyId: d1848234-375a-4daa-884c-6afd2c15f747.r-20230509
+ZPlayFabSocket::Dispose. State: CLOSED
+10/02/2023 14:19:09: Stopping build thread
+
+Unloading 658 unused Assets to reduce memory usage. Loaded Objects now: 1917500.
+Total: 1520.569600 ms (FindLiveObjects: 311.639000 ms CreateObjectMapping: 82.867300 ms MarkObjects: 1113.981800 ms  DeleteObjects: 12.081100 ms)
+
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 3464 -> priority: 1 
+  Thread -> id: 778 -> priority: 1 
+  Thread -> id: 39f0 -> priority: 1 
+  Thread -> id: 668c -> priority: 1 
+  Thread -> id: 11cc -> priority: 1 
+  Thread -> id: 6988 -> priority: 1 
+  Thread -> id: 210c -> priority: 1 
+  Thread -> id: 6ef8 -> priority: 1 
+10/02/2023 14:19:16: ZNet OnDestroy
+10/02/2023 14:19:16: Net scene destroyed
+10/02/2023 14:19:16: Local player destroyed

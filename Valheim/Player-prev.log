@@ -1,0 +1,414 @@
+Mono path[0] = 'C:/Program Files/WindowsApps/CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w/Valheim_Data/Managed'
+Mono config path = 'C:/Program Files/WindowsApps/CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w/MonoBleedingEdge/etc'
+Fallback handler could not load library C:/Program Files/WindowsApps/CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w/Valheim_Data/Mono/lib/usr/lib/libSystem.dylib
+Fallback handler could not load library C:/Program Files/WindowsApps/CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w/Valheim_Data/Mono/lib/usr/lib/libSystem.dylib.dll
+Fallback handler could not load library C:/Program Files/WindowsApps/CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w/Valheim_Data/Mono/lib/usr/lib/libSystem.dylib
+Fallback handler could not load library C:/Program Files/WindowsApps/CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w/Valheim_Data/Mono/libc.so.6
+Fallback handler could not load library C:/Program Files/WindowsApps/CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w/Valheim_Data/Mono/libc.so.6.dll
+Fallback handler could not load library C:/Program Files/WindowsApps/CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w/Valheim_Data/Mono/libc.so.6
+Fallback handler could not load library C:/Program Files/WindowsApps/CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w/Valheim_Data/Mono/data-000001286D66F0D0.dll
+Fallback handler could not load library C:/Program Files/WindowsApps/CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w/Valheim_Data/Mono/data-00000128727AD040.dll
+Loading player data from C:/Program Files/WindowsApps/CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w/Valheim_Data/data.unity3d
+Initialize engine version: 2020.3.45f1 (660cd1701bd5)
+[Subsystems] Discovering subsystems at path C:/Program Files/WindowsApps/CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w/Valheim_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2080 Ti (ID=0x1e04)
+    Vendor:   
+    VRAM:     11041 MB
+    Driver:   31.0.15.3623
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.255 seconds
+<RI> Initializing input.
+New input system (experimental) initialized
+Using XInput
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.402000 ms
+[Message:   BepInEx] BepInEx 5.4.21.0 - Valheim (25-09-2023 00:05:37)
+[Message:   BepInEx] User is running BepInExPack Valheim version 5.4.2105 from Thunderstore
+[Info   :   BepInEx] Running under Unity v2020.3.45.6687953
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.21.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 2 plugins to load
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.1]
+[Info   :   BepInEx] Loading [Server Devcommands 1.61]
+Fallback handler could not load library C:/Program Files/WindowsApps/CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w/Valheim_Data/Mono/data-00000128D96C50A0.dll
+[Message:   BepInEx] Chainloader startup complete
+10/02/2023 13:57:35: Fetching PlatformPrefs 'GuiScale' before loading defaults
+10/02/2023 13:57:35: Fetching PlatformPrefs 'GuiScale' before loading defaults
+Xbox UserID 2535460509739266, gamer tag 'MasTerMinD INK'
+10/02/2023 13:57:37: Starting to load scene:start
+Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+"characters/mastermind.fch" (29195 bytes)
+	old.0 (29195 bytes)
+"characters/mastermind" (29195 bytes)
+	fch.0 (29195 bytes)
+"serverlist/recent" (416 bytes)
+	.0 (208 bytes)
+	old.0 (208 bytes)
+"serverlist/favorite" (102 bytes)
+	.0 (51 bytes)
+	old.0 (51 bytes)
+"characters/mastermind__backup__auto-20231001234930" (decodes to "characters/mastermind_backup_auto-20231001234930", 27620 bytes)
+	fch.0 (27620 bytes)
+"characters/mastermind__backup__auto-20231001204814" (decodes to "characters/mastermind_backup_auto-20231001204814", 27964 bytes)
+	fch.0 (27964 bytes)
+"characters/mastermind__backup__auto-20230929022908" (decodes to "characters/mastermind_backup_auto-20230929022908", 26422 bytes)
+	fch.0 (26422 bytes)
+"characters/mastermind__backup__auto-20230929002502" (decodes to "characters/mastermind_backup_auto-20230929002502", 26019 bytes)
+	fch.0 (26019 bytes)
+"characters/mastermind__backup__auto-20230926235736" (decodes to "characters/mastermind_backup_auto-20230926235736", 23039 bytes)
+	fch.0 (23039 bytes)
+"worlds/INDIANKNIGHTS" (3942052 bytes)
+	db.0 (3941998 bytes)
+	fwl.0 (54 bytes)
+"worlds/INDIANKNIGHTS.fwl" (54 bytes)
+	old.0 (54 bytes)
+"worlds/INDIANKNIGHTS.db" (3941998 bytes)
+	old.0 (3941998 bytes)
+"worlds/INDIANKNIGHTS__backup__auto-20230925022309" (decodes to "worlds/INDIANKNIGHTS_backup_auto-20230925022309", 3839439 bytes)
+	db.0 (3839385 bytes)
+	fwl.0 (54 bytes)
+"worlds/INDIANKNIGHTS__backup__auto-20230925001853" (decodes to "worlds/INDIANKNIGHTS_backup_auto-20230925001853", 54 bytes)
+	fwl.0 (54 bytes)
+"characters/mastermind__backup__auto-20230925001407" (decodes to "characters/mastermind_backup_auto-20230925001407", 792 bytes)
+	fch.0 (792 bytes)
+4294967296
+11914361
+4283052935
+Cache friend Xbox ID 2535407763021588
+Cache friend Xbox ID 2535452646429696
+Cache friend Xbox ID 2535461395219845
+Cache friend Xbox ID 2535421524292162
+Cache friend Xbox ID 2535417316633147
+Cache friend Xbox ID 2535425896262393
+Cache friend Xbox ID 2535469322124258
+Cache friend Xbox ID 2535423415451419
+Cache friend Xbox ID 2535469300577286
+Cache friend Xbox ID 2535457914083497
+Cache friend Xbox ID 2535449274842556
+Cache friend Xbox ID 2535470506925875
+Cache friend Xbox ID 2535439846323938
+Cache friend Xbox ID 2535409215340646
+Cache friend Xbox ID 2535435885041252
+Cache friend Xbox ID 2535432541504151
+Cache friend Xbox ID 2535417603992438
+Cache friend Xbox ID 2535433610267643
+Cache friend Xbox ID 2535447338806891
+Cache friend Xbox ID 2535465410143954
+Cache friend Xbox ID 2535418160583133
+Cache friend Xbox ID 2535460103308622
+Cache friend Xbox ID 2535406047175340
+Cache friend Xbox ID 2535414340314604
+Cache friend Xbox ID 2535463198396623
+Cache friend Xbox ID 2535467249262762
+Cache friend Xbox ID 2535472908806866
+Cache friend Xbox ID 2535439808722227
+Cache friend Xbox ID 2535410434726967
+Cache friend Xbox ID 2535437255885333
+Cache friend Xbox ID 2535466103375690
+Cache friend Xbox ID 2535436804259671
+Cache friend Xbox ID 2535428117013548
+Cache friend Xbox ID 2535419203531910
+Cache friend Xbox ID 2535456500023238
+Cache friend Xbox ID 2535423573727269
+Cache friend Xbox ID 2535412828993526
+Cache friend Xbox ID 2535463935208200
+Cache friend Xbox ID 2535420787889985
+Cache friend Xbox ID 2535421159600279
+Cache friend Xbox ID 2535455187339080
+Cache friend Xbox ID 2535473599261434
+Cache friend Xbox ID 2535405216245282
+Cache friend Xbox ID 2535470081613656
+Cache friend Xbox ID 2533274836753072
+Cache friend Xbox ID 2533274943932944
+Cache friend Xbox ID 2535453049545479
+Shader 'Lux Lit Particles/ Tess Bumped': fallback shader 'Lux Lit Particles/ Bumped Smoke' not found
+Unloading 6 Unused Serialized files (Serialized files now loaded: 1)
+10/02/2023 13:57:43: Loaded localization file #0 - 'localization' language: 'English'
+10/02/2023 13:57:43: Loaded localization file #1 - 'localization_extra' language: 'English'
+10/02/2023 13:57:43: Loaded localization file #2 - 'heightmap_message' language: 'English'
+10/02/2023 13:57:43: Loaded localization file #3 - 'localization_hildir' language: 'English'
+10/02/2023 13:57:43: Loaded localization file #4 - 'localization_emotes' language: 'English'
+10/02/2023 13:57:43: Loaded localization file #0 - 'localization' language: 'English'
+10/02/2023 13:57:43: Loaded localization file #1 - 'localization_extra' language: 'English'
+10/02/2023 13:57:43: Loaded localization file #2 - 'heightmap_message' language: 'English'
+10/02/2023 13:57:43: Loaded localization file #3 - 'localization_hildir' language: 'English'
+10/02/2023 13:57:43: Loaded localization file #4 - 'localization_emotes' language: 'English'
+UnloadTime: 10.197000 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+10/02/2023 13:57:55: Using default prefs
+10/02/2023 13:57:55: Valheim version: ms-0.217.14 (network version 12)
+10/02/2023 13:57:55: Worldgenerator version setup:2
+10/02/2023 13:57:55: Render threading mode:MultiThreaded
+10/02/2023 13:57:55: Missing audio clip in music respawn
+10/02/2023 13:57:55: Builder started
+10/02/2023 13:57:56: Sending PlayFab login request (attempt 1)
+PlayFabAuthWithGdk::Login - get user token
+PlayFabAuthWithGdk::GetTokenAndSignatureCompletionRoutine - LoginWithXbox
+10/02/2023 13:57:56: Starting music menu
+PlayFabAuthWithGdk::OnLoginWithXboxSuccess - PlayFab.ClientModels.LoginResult
+10/02/2023 13:57:58: PlayFab logged via Xbox
+10/02/2023 13:57:58: PlayFab local entity ID is 35FAD28AF2B970B2
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 156678.
+Total: 351.628200 ms (FindLiveObjects: 53.128500 ms CreateObjectMapping: 25.494100 ms MarkObjects: 264.930400 ms  DeleteObjects: 8.074600 ms)
+
+10/02/2023 13:58:01: show character selection
+10/02/2023 13:58:02: OnCharacterStart
+10/02/2023 13:58:03: PlayFab lobby matching search filter 'string_key10 eq '106.213.0.235:2456' and string_key2 eq 'True'': Got back zero lobbies
+10/02/2023 13:58:05: PlayFab lobby matching search filter 'string_key10 eq '106.213.0.235:2456' and string_key2 eq 'True'': Got back zero lobbies
+10/02/2023 13:58:07: PlayFab lobby matching search filter 'string_key10 eq '106.213.0.235:2456' and string_key2 eq 'True'': Got back zero lobbies
+10/02/2023 13:58:33: Button pressed Add  frame:4403
+10/02/2023 13:58:39: Button pressed Add  frame:4766
+10/02/2023 13:58:42: PlayFab lobby matching search filter 'string_key10 eq '106.213.0.235:2456' and string_key2 eq 'True'': Got back zero lobbies
+10/02/2023 13:58:46: Added server with name INK-Server to server list
+10/02/2023 13:58:47: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 13:58:48: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 13:58:48: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 13:58:48: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 13:58:48: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 13:58:49: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 13:58:49: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 13:58:49: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 13:58:49: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 13:58:50: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 13:58:50: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 13:58:50: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 13:58:50: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 13:58:51: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 13:58:51: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 13:58:51: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 13:58:51: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 13:58:52: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 13:58:52: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 13:58:52: Backend not retreived yet, checking again in 0.25 seconds...
+10/02/2023 13:58:52: PlayFab lobby matching search filter 'string_key10 eq '106.213.0.235:2456' and string_key2 eq 'True'': Got back zero lobbies
+10/02/2023 13:58:52: Max retries reached, reloading startup scene with connection error
+Unloading 5 Unused Serialized files (Serialized files now loaded: 1)
+10/02/2023 13:58:55: Cloud Save: 51 bytes. /serverlist/favorite.new
+10/02/2023 13:59:24: Cloud Save: 208 bytes. /serverlist/recent.new
+UnloadTime: 59572.336300 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+10/02/2023 13:59:52: Using default prefs
+10/02/2023 13:59:52: Valheim version: ms-0.217.14 (network version 12)
+10/02/2023 13:59:52: Worldgenerator version setup:2
+10/02/2023 13:59:52: Render threading mode:MultiThreaded
+10/02/2023 13:59:56: Audioman already exist, destroying self
+
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 155342.
+Total: 141.160200 ms (FindLiveObjects: 9.090500 ms CreateObjectMapping: 14.520300 ms MarkObjects: 114.348700 ms  DeleteObjects: 3.200300 ms)
+
+10/02/2023 14:00:07: Starting music menu
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Program Files\WindowsApps\CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w;C:\Program Files\WindowsApps\CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w;C:\Windows;C:\Windows\system32;', symOptions: 534, UserName: 'Barai Brothers'
+OS-Version: 10.0.0
+C:\Program Files\WindowsApps\CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w\Valheim.exe:Valheim.exe (00007FF7238D0000), size: 675840 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2020.3.45.3281
+C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (00007FFED89F0000), size: 2064384 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3393
+C:\Windows\System32\KERNEL32.DLL:KERNEL32.DLL (00007FFED6A50000), size: 774144 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3393
+C:\Windows\System32\KERNELBASE.dll:KERNELBASE.dll (00007FFED66B0000), size: 3104768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3393
+C:\Program Files\WindowsApps\CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w\UnityPlayer.dll:UnityPlayer.dll (00007FFDE0740000), size: 29433856 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2020.3.45.3281
+C:\Windows\System32\USER32.dll:USER32.dll (00007FFED78D0000), size: 1695744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3393
+C:\Windows\System32\win32u.dll:win32u.dll (00007FFED6230000), size: 139264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3448
+C:\Windows\System32\GDI32.dll:GDI32.dll (00007FFED7A70000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3393
+C:\Windows\System32\gdi32full.dll:gdi32full.dll (00007FFED6340000), size: 1155072 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3393
+C:\Windows\System32\msvcp_win.dll:msvcp_win.dll (00007FFED69B0000), size: 643072 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\Windows\System32\ucrtbase.dll:ucrtbase.dll (00007FFED6560000), size: 1048576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\Windows\System32\ole32.dll:ole32.dll (00007FFED7CB0000), size: 1220608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2965
+C:\Windows\System32\RPCRT4.dll:RPCRT4.dll (00007FFED77A0000), size: 1204224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3448
+C:\Windows\System32\combase.dll:combase.dll (00007FFED6CF0000), size: 3489792 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3393
+C:\Windows\System32\SHLWAPI.dll:SHLWAPI.dll (00007FFED8350000), size: 348160 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2075
+C:\Windows\System32\msvcrt.dll:msvcrt.dll (00007FFED7C10000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.19041.546
+C:\Windows\System32\SETUPAPI.dll:SETUPAPI.dll (00007FFED7DF0000), size: 4644864 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3155
+C:\Windows\System32\cfgmgr32.dll:cfgmgr32.dll (00007FFED6660000), size: 319488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3155
+C:\Windows\System32\bcrypt.dll:bcrypt.dll (00007FFED6310000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3208
+C:\Windows\System32\ADVAPI32.dll:ADVAPI32.dll (00007FFED6C30000), size: 712704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3393
+C:\Windows\SYSTEM32\VERSION.dll:VERSION.dll (00007FFECE2B0000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\sechost.dll:sechost.dll (00007FFED7B70000), size: 638976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3393
+C:\Windows\System32\SHELL32.dll:SHELL32.dll (00007FFED7050000), size: 7622656 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3393
+C:\Windows\System32\OLEAUT32.dll:OLEAUT32.dll (00007FFED7AA0000), size: 839680 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3208
+C:\Windows\System32\IMM32.dll:IMM32.dll (00007FFED86A0000), size: 196608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2673
+C:\Windows\System32\CRYPT32.dll:CRYPT32.dll (00007FFED60D0000), size: 1433600 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3271
+C:\Windows\System32\WS2_32.dll:WS2_32.dll (00007FFED8630000), size: 438272 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FFE39590000), size: 1200128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2193
+C:\Program Files\WindowsApps\CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w\WINHTTP.dll:WINHTTP.dll (00007FFEBD200000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.4.0.0
+C:\Windows\SYSTEM32\WINMM.dll:WINMM.dll (00007FFEC9AB0000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\HID.DLL:HID.DLL (00007FFED4920000), size: 53248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\dwmapi.dll:dwmapi.dll (00007FFED3C90000), size: 192512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\Windows\SYSTEM32\GLU32.dll:GLU32.dll (00007FFE84DF0000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2193
+C:\Windows\system32\WINHTTP.dll:WINHTTP.dll (00007FFECDA10000), size: 1089536 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3031
+C:\Windows\System32\shcore.dll:shcore.dll (00007FFED8900000), size: 708608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1865
+C:\Windows\SYSTEM32\daxexec.dll:daxexec.dll (00007FFEBA610000), size: 716800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3448
+C:\Windows\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (00007FFED3F80000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\container.dll:container.dll (00007FFEBA5C0000), size: 270336 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1052
+C:\Windows\SYSTEM32\profapi.dll:profapi.dll (00007FFED6000000), size: 151552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3155
+C:\Windows\SYSTEM32\FLTLIB.DLL:FLTLIB.DLL (00007FFEBAE50000), size: 45056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\windows.storage.dll:windows.storage.dll (00007FFED4180000), size: 7974912 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3393
+C:\Windows\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (00007FFED5510000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3271
+C:\Windows\SYSTEM32\AppXDeploymentClient.dll:AppXDeploymentClient.dll (00007FFECE750000), size: 1056768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3271
+C:\Windows\SYSTEM32\Wldp.dll:Wldp.dll (00007FFED5B10000), size: 188416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2788
+C:\Windows\SYSTEM32\ntmarta.dll:ntmarta.dll (00007FFED5230000), size: 208896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\capauthz.dll:capauthz.dll (00007FFECE860000), size: 331776 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\WINTRUST.dll:WINTRUST.dll (00007FFED64F0000), size: 421888 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3271
+C:\Windows\SYSTEM32\MSASN1.dll:MSASN1.dll (00007FFED5CA0000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2251
+C:\Windows\SYSTEM32\windows.staterepositorycore.dll:windows.staterepositorycore.dll (00007FFECB720000), size: 69632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3155
+C:\Windows\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FFED6460000), size: 532480 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2486
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (00007FFED3560000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3393
+C:\Program Files (x86)\RivaTuner Statistics Server\RTSSHooks64.dll:RTSSHooks64.dll (0000000180000000), size: 55259136 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Program Files\WindowsApps\CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00007FFE460C0000), size: 7860224 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Windows\System32\PSAPI.DLL:PSAPI.DLL (00007FFED6CE0000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (00007FFED5A60000), size: 98304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\system32\rsaenh.dll:rsaenh.dll (00007FFED5110000), size: 212992 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1052
+C:\Windows\SYSTEM32\CRYPTBASE.dll:CRYPTBASE.dll (00007FFED5A80000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\MSCTF.dll:MSCTF.dll (00007FFED6B10000), size: 1130496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2673
+C:\Windows\SYSTEM32\d3d11.dll:d3d11.dll (00007FFED3860000), size: 2502656 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2913
+C:\Windows\SYSTEM32\dxgi.dll:dxgi.dll (00007FFED4960000), size: 995328 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2311
+C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_7e5fd280efaa5445\nvldumdx.dll:nvldumdx.dll (00007FFEC77F0000), size: 770048 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.15.3623
+C:\Windows\SYSTEM32\cryptnet.dll:cryptnet.dll (00007FFECE1A0000), size: 200704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.906
+C:\Windows\SYSTEM32\drvstore.dll:drvstore.dll (00007FFECE000000), size: 1343488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2546
+C:\Windows\SYSTEM32\devobj.dll:devobj.dll (00007FFED5E60000), size: 208896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3155
+C:\Windows\System32\imagehlp.dll:imagehlp.dll (00007FFED8530000), size: 118784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1415
+C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_7e5fd280efaa5445\nvwgf2umx.dll:nvwgf2umx.dll (00007FFEBFC80000), size: 99463168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.15.3623
+C:\Windows\system32\nvspcap64.dll:nvspcap64.dll (00007FFEAFE00000), size: 2953216 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.27.0.112
+C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_7e5fd280efaa5445\Display.NvContainer\MessageBus.dll:MessageBus.dll (00007FFEBF450000), size: 7565312 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.22.2758.1620
+C:\Windows\SYSTEM32\dxcore.dll:dxcore.dll (00007FFEC7B60000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\NSI.dll:NSI.dll (00007FFED84C0000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.610
+C:\Windows\SYSTEM32\dhcpcsvc.DLL:dhcpcsvc.DLL (00007FFECE970000), size: 118784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2673
+C:\Windows\System32\clbcatq.dll:clbcatq.dll (00007FFED83B0000), size: 692224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2001.12.10941.16384
+C:\Windows\system32\wbem\wbemprox.dll:wbemprox.dll (00007FFECD100000), size: 69632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3271
+C:\Windows\SYSTEM32\wbemcomn.dll:wbemcomn.dll (00007FFECBF90000), size: 589824 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1566
+C:\Windows\system32\wbem\wbemsvc.dll:wbemsvc.dll (00007FFECB740000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3271
+C:\Windows\system32\wbem\fastprox.dll:fastprox.dll (00007FFECB780000), size: 1093632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\amsi.dll:amsi.dll (00007FFEBDAC0000), size: 126976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2075
+C:\Windows\SYSTEM32\USERENV.dll:USERENV.dll (00007FFED5FC0000), size: 188416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3155
+C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.23080.2006-0\MpOav.dll:MpOav.dll (00007FFEBDA10000), size: 507904 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 4.18.23080.2006
+C:\Windows\System32\MMDevApi.dll:MMDevApi.dll (00007FFECF9C0000), size: 544768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1503
+C:\Windows\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (00007FFECFA90000), size: 1581056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2364
+C:\Windows\SYSTEM32\powrprof.dll:powrprof.dll (00007FFED5680000), size: 307200 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\UMPDC.dll:UMPDC.dll (00007FFED54F0000), size: 73728 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Windows\SYSTEM32\resourcepolicyclient.dll:resourcepolicyclient.dll (00007FFED3B90000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\xinput1_4.dll:xinput1_4.dll (00007FFEBCAA0000), size: 69632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.844
+C:\Windows\SYSTEM32\inputhost.dll:inputhost.dll (00007FFEC7900000), size: 1384448 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\SYSTEM32\wintypes.dll:wintypes.dll (00007FFED19E0000), size: 1396736 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3393
+C:\Windows\SYSTEM32\CoreUIComponents.dll:CoreUIComponents.dll (00007FFED2510000), size: 3530752 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\PROPSYS.dll:PROPSYS.dll (00007FFED1720000), size: 1007616 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.19041.3393
+C:\Windows\SYSTEM32\CoreMessaging.dll:CoreMessaging.dll (00007FFED2870000), size: 991232 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3393
+C:\Windows\SYSTEM32\xinput1_3.dll:xinput1_3.dll (0000000000400000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.18.944.0
+C:\Windows\SYSTEM32\dcomp.dll:dcomp.dll (00007FFED1FA0000), size: 1978368 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2913
+C:\Windows\SYSTEM32\textinputframework.dll:textinputframework.dll (00007FFEC7A60000), size: 1024000 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3393
+C:\Program Files\WindowsApps\CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w\Valheim_Data\Plugins\x86_64\XGamingRuntimeThunks.dll:XGamingRuntimeThunks.dll (00007FFECB4E0000), size: 118784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.0.2204.13001
+C:\Program Files\WindowsApps\Microsoft.VCLibs.140.00.UWPDesktop_14.0.32530.0_x64__8wekyb3d8bbwe\VCRUNTIME140.dll:VCRUNTIME140.dll (00007FFE3C7D0000), size: 110592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.36.32530.0
+C:\Windows\SYSTEM32\xgameruntime.dll:xgameruntime.dll (00007FFE47160000), size: 2707456 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.25398.1505
+C:\Windows\SYSTEM32\twinapi.appcore.dll:twinapi.appcore.dll (00007FFECE9B0000), size: 2125824 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3031
+C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.2251_none_91a40448cc8846c1\GDIPLUS.dll:GDIPLUS.dll (00007FFEC6130000), size: 1724416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2251
+C:\Windows\SYSTEM32\GameConfigHelper.dll:GameConfigHelper.dll (00007FFE7F6F0000), size: 200704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.25398.1505
+C:\Windows\System32\XblAuthManagerProxy.dll:XblAuthManagerProxy.dll (00007FFECF570000), size: 114688 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1586
+C:\Windows\system32\gamingservicesproxy_3.dll:gamingservicesproxy_3.dll (00007FFE850F0000), size: 245760 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.25398.1505
+C:\Windows\System32\msxml6.dll:msxml6.dll (00007FFEA9F80000), size: 2486272 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.30.19041.3393
+C:\Windows\System32\Windows.Networking.Connectivity.dll:Windows.Networking.Connectivity.dll (00007FFEA6AF0000), size: 757760 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2311
+C:\Windows\System32\wpnapps.dll:wpnapps.dll (00007FFEA2570000), size: 1392640 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2546
+C:\Windows\System32\RMCLIENT.dll:RMCLIENT.dll (00007FFED3DA0000), size: 172032 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\Windows\System32\XmlLite.dll:XmlLite.dll (00007FFECBB00000), size: 221184 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\usermgrcli.dll:usermgrcli.dll (00007FFED0430000), size: 90112 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\usermgrproxy.dll:usermgrproxy.dll (00007FFECDD80000), size: 344064 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\System32\OneCoreUAPCommonProxyStub.dll:OneCoreUAPCommonProxyStub.dll (00007FFEC88A0000), size: 8187904 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3393
+C:\Windows\System32\Windows.Security.Authentication.Web.Core.dll:Windows.Security.Authentication.Web.Core.dll (00007FFE9F2C0000), size: 1167360 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1566
+C:\Windows\System32\iertutil.dll:iertutil.dll (00007FFEC6470000), size: 2867200 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 11.0.19041.3393
+C:\Windows\System32\OneCoreCommonProxyStub.dll:OneCoreCommonProxyStub.dll (00007FFEBD820000), size: 520192 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2546
+C:\Windows\System32\vaultcli.dll:vaultcli.dll (00007FFE9C560000), size: 331776 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3086
+C:\Windows\System32\Windows.StateRepositoryPS.dll:Windows.StateRepositoryPS.dll (00007FFEBC700000), size: 1335296 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3155
+C:\Windows\System32\XblAuthTokenBrokerExt.dll:XblAuthTokenBrokerExt.dll (00007FFEBE110000), size: 131072 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\System32\threadpoolwinrt.dll:threadpoolwinrt.dll (00007FFECBEC0000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\Windows\System32\CryptoWinRT.dll:CryptoWinRT.dll (00007FFEA6210000), size: 397312 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\Windows\System32\Windows.ApplicationModel.Store.dll:Windows.ApplicationModel.Store.dll (00007FFE46F20000), size: 2314240 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3155
+C:\Windows\System32\webservices.dll:webservices.dll (00007FFEB2030000), size: 1388544 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\Cabinet.dll:Cabinet.dll (00007FFEBEA00000), size: 167936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 5.0.1.1
+C:\Windows\SYSTEM32\gamestreamingext.dll:gamestreamingext.dll (00007FFEA7440000), size: 28672 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1
+C:\Windows\System32\Windows.Web.dll:Windows.Web.dll (00007FFEA6BF0000), size: 798720 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\Windows\System32\npmproxy.dll:npmproxy.dll (00007FFECB660000), size: 65536 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3031
+C:\Windows\System32\dusmapi.dll:dusmapi.dll (00007FFE93960000), size: 69632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\Windows.Networking.HostName.dll:Windows.Networking.HostName.dll (00007FFE93AD0000), size: 233472 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2311
+C:\Windows\System32\netprofm.dll:netprofm.dll (00007FFED0EA0000), size: 258048 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3393
+C:\Windows\SYSTEM32\msiltcfg.dll:msiltcfg.dll (00007FFEB5EC0000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 5.0.19041.1
+C:\Windows\SYSTEM32\msi.dll:msi.dll (00007FFEBB870000), size: 3371008 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 5.0.19041.3208
+C:\Windows\SYSTEM32\sxs.dll:sxs.dll (00007FFED5ED0000), size: 663552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2788
+C:\Windows\system32\mswsock.dll:mswsock.dll (00007FFED5870000), size: 434176 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\WINNSI.DLL:WINNSI.DLL (00007FFECEBD0000), size: 45056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (00007FFECE990000), size: 94208 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2673
+C:\Windows\SYSTEM32\webio.dll:webio.dll (00007FFEBEA90000), size: 622592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3031
+C:\Windows\SYSTEM32\SspiCli.dll:SspiCli.dll (00007FFED5F80000), size: 204800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3393
+C:\Windows\SYSTEM32\DNSAPI.dll:DNSAPI.dll (00007FFED5560000), size: 827392 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3031
+C:\Program Files\Bonjour\mdnsNSP.dll:mdnsNSP.dll (00000000554A0000), size: 155648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.1.0.1
+C:\Windows\System32\rasadhlp.dll:rasadhlp.dll (00007FFECEBC0000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\fwpuclnt.dll:fwpuclnt.dll (00007FFECAAC0000), size: 532480 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3393
+C:\Program Files\WindowsApps\CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w\Valheim_Data\Plugins\x86_64\Microsoft.Xbox.Services.141.GDK.C.Thunks.dll:Microsoft.Xbox.Services.141.GDK.C.Thunks.dll (00007FFE45EB0000), size: 2113536 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.0.2205.17002
+C:\Program Files\WindowsApps\Microsoft.VCLibs.140.00.UWPDesktop_14.0.32530.0_x64__8wekyb3d8bbwe\MSVCP140.dll:MSVCP140.dll (00007FFE3C7F0000), size: 581632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.36.32530.0
+C:\Program Files\WindowsApps\CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w\Valheim_Data\Plugins\x86_64\XCurl.dll:XCurl.dll (00007FFE87920000), size: 151552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2206.0.0.0
+C:\Program Files\WindowsApps\Microsoft.VCLibs.140.00.UWPDesktop_14.0.32530.0_x64__8wekyb3d8bbwe\VCRUNTIME140_1.dll:VCRUNTIME140_1.dll (00007FFE98E50000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.36.32530.0
+C:\Windows\system32\schannel.DLL:schannel.DLL (00007FFED5020000), size: 618496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3031
+C:\Windows\SYSTEM32\mskeyprotect.dll:mskeyprotect.dll (00007FFEBA980000), size: 90112 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2788
+C:\Windows\SYSTEM32\NTASN1.dll:NTASN1.dll (00007FFED5B40000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\ncrypt.dll:ncrypt.dll (00007FFED5B80000), size: 163840 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2788
+C:\Windows\system32\ncryptsslp.dll:ncryptsslp.dll (00007FFEBA9D0000), size: 155648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2846
+C:\Windows\SYSTEM32\DPAPI.DLL:DPAPI.DLL (00007FFED5EC0000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Program Files\WindowsApps\CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w\Valheim_Data\Plugins\x86_64\PartyXboxLive.dll:PartyXboxLive.dll (00007FFE45DB0000), size: 1028096 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.2.2107.29003
+C:\Program Files\WindowsApps\CoffeeStainStudios.Valheim_0.217.14.0_x64__496a1srhmar9w\Valheim_Data\Plugins\x86_64\PartyWin.dll:PartyWin.dll (00007FFE3DB10000), size: 3158016 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.7.2204.4001
+C:\Windows\system32\upnp.dll:upnp.dll (00007FFE7E820000), size: 450560 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2788
+C:\Windows\system32\urlmon.dll:urlmon.dll (00007FFEC5B90000), size: 2019328 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 11.0.19041.3448
+C:\Windows\system32\SSDPAPI.dll:SSDPAPI.dll (00007FFECDFC0000), size: 90112 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2788
+C:\Windows\system32\srvcli.dll:srvcli.dll (00007FFEC5B60000), size: 167936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3155
+C:\Windows\system32\netutils.dll:netutils.dll (00007FFED5550000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\gpapi.dll:gpapi.dll (00007FFED4930000), size: 143360 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3393
+C:\Windows\system32\hnetcfg.dll:hnetcfg.dll (00007FFE47BF0000), size: 421888 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1865
+C:\Windows\system32\ATL.DLL:ATL.DLL (00007FFEBD050000), size: 118784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.5.2284.0
+C:\Windows\system32\napinsp.dll:napinsp.dll (00007FFEB8440000), size: 94208 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\system32\pnrpnsp.dll:pnrpnsp.dll (00007FFEB8420000), size: 110592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\system32\wshbth.dll:wshbth.dll (00007FFED1000000), size: 86016 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\system32\NLAapi.dll:NLAapi.dll (00007FFECEDF0000), size: 118784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3031
+C:\Windows\System32\winrnr.dll:winrnr.dll (00007FFEB8400000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFED3650000), size: 1982464 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.867
+
+========== OUTPUTTING STACK TRACE ==================
+
+0x00007FFED8B02274 (ntdll) TpDbgDumpHeapUsage
+0x00007FFE4723E039 (xgameruntime) XErrorReport
+0x00007FFE4723FB30 (xgameruntime) XErrorReport
+0x00007FFE4723F9E2 (xgameruntime) XErrorReport
+0x00007FFE47242845 (xgameruntime) XErrorReport
+0x00007FFE3DBAF7F7 (PartyWin) PartyTextToSpeechProfileSetCustomContext
+0x00007FFE3DBC4F19 (PartyWin) PartyTextToSpeechProfileSetCustomContext
+0x00007FFE3DBC697A (PartyWin) PartyTextToSpeechProfileSetCustomContext
+0x00007FFE3DBB0E41 (PartyWin) PartyTextToSpeechProfileSetCustomContext
+0x00007FFE3DBB102A (PartyWin) PartyTextToSpeechProfileSetCustomContext
+0x00007FFE3DB2D25E (PartyWin) PartyTextToSpeechProfileSetCustomContext
+0x00007FFE3DB2D15C (PartyWin) PartyTextToSpeechProfileSetCustomContext
+0x00007FFE3DB2CF9F (PartyWin) PartyTextToSpeechProfileSetCustomContext
+0x00007FFE3DBAFDA6 (PartyWin) PartyTextToSpeechProfileSetCustomContext
+0x00007FFED65742D6 (ucrtbase) execute_onexit_table
+0x00007FFED65741FB (ucrtbase) execute_onexit_table
+0x00007FFED65741B4 (ucrtbase) execute_onexit_table
+0x00007FFE3DBB042E (PartyWin) PartyTextToSpeechProfileSetCustomContext
+0x00007FFE3DBB0554 (PartyWin) PartyTextToSpeechProfileSetCustomContext
+0x00007FFED8A09A1D (ntdll) RtlActivateActivationContextUnsafeFast
+0x00007FFED8A4DCDA (ntdll) LdrShutdownProcess
+0x00007FFED8A4DA8D (ntdll) RtlExitUserProcess
+0x00007FFED6742A40 (KERNELBASE) CtrlRoutine
+0x00007FFED67429E3 (KERNELBASE) CtrlRoutine
+0x00007FFED6A67344 (KERNEL32) BaseThreadInitThunk
+0x00007FFED8A426B1 (ntdll) RtlUserThreadStart
+
+========== END OF STACKTRACE ===========
+
+A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
+ * C:/Users/BARAIB~1/AppData/Local/Temp/IronGate/Valheim/Crashes
